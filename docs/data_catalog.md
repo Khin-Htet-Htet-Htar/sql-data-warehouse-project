@@ -8,3 +8,4 @@ The Gold Layer is the business-level data representation, structured to support 
 
 | Column Name | Data Type | Description |
 | :--- | :--- | :--- |
+| customer_key | INT | Surrogate key uniquely identifying each customer record in the dimension table. |
